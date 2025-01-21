@@ -1,6 +1,7 @@
+```
 1. Paket Yapısı
 Proje şu şekilde organize edilmiş:
-plaintext
+
 KopyalaDüzenle
 src/main/java/kodlamaio/northwind/
 ├── api/controllers
