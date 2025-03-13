@@ -1,6 +1,8 @@
-## Detaylı Rehber
+## Detaylı Tanıtım Rehberi
 Projenin tanıtımı ve kullanım talimatları için 
 [Northwind Rehber PDF’sini indirin](https://github.com/ercancelikbusiness/northwind/raw/main/Northwind_Rehber.pdf)
+
+## Aşağıda  Paket  Yapısı :
 
 ```
 1. Paket Yapısı
